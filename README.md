@@ -1,7 +1,41 @@
-# Testes automatizados com Cypress - Básico
+# cypress-basico-v2-aula
 
-👋 Seja bem-vindo(a)!
-O teste automatizado é baseado no curso feito com cypress basico
+Sample project for the basic course of the Talking About Testing online school.
 
-O Objetivo do curso foi feito para que o aprendizado com cypress tenha sido constante e enriquecedor. O Curso Foi feito pelo 
-Walmir,um grande professor da ferramenta cypress, meu objetivo com o cypress é entender mais as linhas de codigos e poder aplicalo em projetos futuros.
+## Pre-requirements
+
+It is required to have Node.js and npm installed to run this project.
+
+    I used versions 'v18.15.0' and '8.3.2' of Node.js and npm, respectively I 
+    suggest you use the same or later versions.
+## Installation
+
+Run 'npm install' (or 'npm i' for the short version) to install the dev dependencies.
+
+## Tests
+
+You can run the tests simulating a desktop or mobile viewport.
+
+### Desktop 
+
+Run 'npm run test:(or 'npm t for the version') to run the test in headless
+mode on a desktop viewport.
+
+Or, run 'npm run cy:open' to open Cypress in interactive mode on a desktop
+viewport.
+
+### Mobile
+
+Run 'npm run test:mobile' to run the test in headless mode on a mobile viewport.
+
+Or, run 'npm run cy:open:mobile' to open Cypress in interactive mode on a mobile
+viewport.
+
+## Suport this project 
+
+If you want to support this project, leave a .
+
+This project wa cretead with By www.linkedin.com/in/victor-emanuel-qa/
+
+
+
