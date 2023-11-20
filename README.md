@@ -33,7 +33,7 @@ viewport.
 
 ## Suport this project 
 
-If you want to support this project, leave a .
+If you want to support this project, leave a ⭐
 
 This project wa cretead with By www.linkedin.com/in/victor-emanuel-qa/
 
